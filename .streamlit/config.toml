@@ -1,0 +1,7 @@
+[server]/n
+headless = true/n
+port = 10000/n
+
+[browser]/n
+serverAddress = "0.0.0.0"/n
+serverPort = 10000/n
