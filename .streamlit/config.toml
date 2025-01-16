@@ -1,7 +1,7 @@
-[server]/n
-headless = true/n
-port = 10000/n
+[server]
+headless = true
+port = 10000
 
-[browser]/n
-serverAddress = "0.0.0.0"/n
-serverPort = 10000/n
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = 10000
